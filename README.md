@@ -1,4 +1,4 @@
-# 🌟 **Welcome to My Portfolio - Powered by Code!** 🌟
+# 🌟 **Welcome to My Portfolio**
 
 ## 🚀 **About the Project**
 
