@@ -40,16 +40,3 @@ To contribute, follow these steps:
 4. Make changes and test locally
 5. Create a pull request
 
-## 📣 **Showcase Projects**
-
-Here are some of the cool projects you’ll find on my portfolio:
-
-- **Project 1: E-Logbook** 📚: A fully-featured logbook application to track daily tasks and activities.
-- **Project 2: Metal Rates Dashboard** 🏅: A live dashboard showing real-time metal price updates.
-- **Project 3: HR Management System** 👨‍💻: A robust HR system to manage employees' data and workflows.
-
-## 📜 **License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Thank you for checking out my portfolio! 😊 If you like what you see, feel free to connect with me on LinkedIn or Twitter. Let's build something amazing together! 🌟
