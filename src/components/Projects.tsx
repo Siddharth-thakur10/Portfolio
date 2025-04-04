@@ -1,9 +1,9 @@
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import visitingCard from '../Assets/images/visting-card2.png';
-import hpsetu from '../Assets/images/hpsetu.png';
-import elogbook from '../Assets/images/elogbook.png';
+import visitingCard from '../assets/images/visting-card2.png';
+import hpsetu from '../assets/images/hpsetu.png';
+import elogbook from '../assets/images/elogbook.png';
 
 const projects = [
   {
