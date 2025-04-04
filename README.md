@@ -4,7 +4,7 @@
 
 Hey there! 👋 Welcome to my **portfolio** - a showcase of my journey as a developer and the amazing projects I’ve worked on. This portfolio highlights my skills, creativity, and dedication to continuous learning. Built with passion and designed with a modern touch, this website is a testament to my growth in the tech world.
 
-You can visit it live at [My Portfolio](YOUR-LIVE-SITE-URL).
+You can visit it live at [My Portfolio](https://portfolio-mb7t-siddharth-thakur10s-projects.vercel.app/).
 
 ## 🔧 **Technologies Used**
 
